@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/hirla-andrade">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirla-andrade&show_icons=true&theme=dracula&include_all_commits=true&count_private-true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirla-andrade&layout=compact&langs_count=16&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hirla-andrade&show_icons=true&theme=panda&include_all_commits=true&count_private-true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirla-andrade&layout=compact&langs_count=16&theme=panda"/>
 </div>
 
 <div style="display: inline_block"><br>
