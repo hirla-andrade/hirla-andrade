@@ -1,6 +1,5 @@
-### Oi! Eu sou a Hirla de Andrade👋
+### Oioi! Sou Hirla👋
 - 🌱 Estudando Python
-- 😄 Pronouns: ela/dela
 - 🎓 Estudante de Ciência da Computação
 
 <div>
